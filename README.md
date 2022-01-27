@@ -22,6 +22,19 @@ This module is about Drag & Drop, Drag & Copy Demo using HTML5 & JS event handle
 
 # UI SneakPeak ❤️ 
 
+## Drag & Drop
+
+![image](https://user-images.githubusercontent.com/43011442/151360797-745455df-7690-402a-8244-d9a1bc5559b8.png)
+
+![image](https://user-images.githubusercontent.com/43011442/151360584-3f9b1d1a-6824-43ac-b500-f588facfbce2.png)
+
+
+## Drag & Copy
+
+![image](https://user-images.githubusercontent.com/43011442/151360817-186ad562-3c94-465e-a06f-8eb0b7db409d.png)
+
+
+
 
 <br><br>
 
