@@ -26,6 +26,8 @@ This module is about Drag & Drop, Drag & Copy Demo using HTML5 & JS event handle
 
 ![image](https://user-images.githubusercontent.com/43011442/151360797-745455df-7690-402a-8244-d9a1bc5559b8.png)
 
+## After Dragging and Dropping
+
 ![image](https://user-images.githubusercontent.com/43011442/151360584-3f9b1d1a-6824-43ac-b500-f588facfbce2.png)
 
 
@@ -33,7 +35,9 @@ This module is about Drag & Drop, Drag & Copy Demo using HTML5 & JS event handle
 
 ![image](https://user-images.githubusercontent.com/43011442/151360817-186ad562-3c94-465e-a06f-8eb0b7db409d.png)
 
+## After Dragging & Coping
 
+![image](https://user-images.githubusercontent.com/43011442/151361170-a1d50fd6-ee2d-4da6-97a3-102af33eb5aa.png)
 
 
 <br><br>
