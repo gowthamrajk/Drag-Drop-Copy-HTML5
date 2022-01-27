@@ -8,7 +8,7 @@ function drag(ev) {
 }
 
 // for Drag & Drop Logic
-/* 
+
 function drop(ev) {
    ev.preventDefault();
   var data = ev.dataTransfer.getData("text");
@@ -16,10 +16,10 @@ function drop(ev) {
    document.getElementById("heading-content").innerHTML = "Dragged & Dropped Successfully !!!";
    document.getElementById("heading-content").style.color = "green";
 } 
-*/
+
 
 // for Drag & Copy Logic
-
+/* 
 function drop(ev) {
   ev.preventDefault();
   var data=ev.dataTransfer.getData("text");
@@ -29,3 +29,4 @@ function drop(ev) {
   document.getElementById("heading-content").innerHTML = "Dragged & Copied Successfully !!!";
   document.getElementById("heading-content").style.color = "green";
 }
+*/
